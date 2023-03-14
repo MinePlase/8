@@ -1,5 +1,3 @@
-import random
-import string
 from random import choice
 from string import printable
 status = False
